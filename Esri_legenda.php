@@ -32,6 +32,7 @@ $arrContextOptions=array(
 		"verify_peer_name"=>false,
 	),
 );
+ //$url=str_replace("https://geoportal.kalselprov.go.id","http://192.168.0.47:6080",$url);
  $urlJson = $url.'/legend?f=pjson';
  $konten = file_get_contents($urlJson, false, stream_context_create($arrContextOptions));
  $data = json_decode($konten, true);

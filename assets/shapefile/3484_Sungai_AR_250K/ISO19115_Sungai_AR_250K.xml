@@ -1,0 +1,3636 @@
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fileIdentifier>
+    <gco:CharacterString>Sungai_AR_250K</gco:CharacterString>
+  </fileIdentifier>
+  <language>
+    <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="ind" codeSpace="ISO639-2">ind</LanguageCode>
+  </language>
+  <characterSet>
+    <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+  </characterSet>
+  <parentIdentifier>
+    <gco:CharacterString>BAPPEDA:Sungai_AR_250K</gco:CharacterString>
+  </parentIdentifier>
+  <hierarchyLevel>
+    <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="FeatureType" codeSpace="ISOTC211/19115">FeatureType</MD_ScopeCode>
+  </hierarchyLevel>
+  <hierarchyLevelName>
+    <gco:CharacterString>FeatureType</gco:CharacterString>
+  </hierarchyLevelName>
+  <contact>
+    <CI_ResponsibleParty>
+      <individualName>
+        <gco:CharacterString>Ir. M. YASIN TOYIB, ST</gco:CharacterString>
+      </individualName>
+      <organisationName>
+        <gco:CharacterString>DINAS PEKERJAAN UMUM DAN PENATAAN RUANG</gco:CharacterString>
+      </organisationName>
+      <positionName>
+        <gco:CharacterString>Pejabat Eselon III Bidang Pertanahan</gco:CharacterString>
+      </positionName>
+      <contactInfo>
+        <CI_Contact>
+          <phone>
+            <CI_Telephone>
+              <voice>
+                <gco:CharacterString>(0511) 67492</gco:CharacterString>
+              </voice>
+              <facsimile>
+                <gco:CharacterString>(0511) 6749213</gco:CharacterString>
+              </facsimile>
+            </CI_Telephone>
+          </phone>
+          <address>
+            <CI_Address>
+              <deliveryPoint>
+                <gco:CharacterString>Jalan Dharma Praja, Palam, Cempaka, Kota Banjar Baru, Kalimantan Selatan 70114</gco:CharacterString>
+              </deliveryPoint>
+              <city>
+                <gco:CharacterString>BANJARBARU</gco:CharacterString>
+              </city>
+              <administrativeArea>
+                <gco:CharacterString>Kalimantan Selatan</gco:CharacterString>
+              </administrativeArea>
+              <postalCode>
+                <gco:CharacterString>70711</gco:CharacterString>
+              </postalCode>
+              <country>
+                <gco:CharacterString>IND</gco:CharacterString>
+              </country>
+              <electronicMailAddress>
+                <gco:CharacterString>bintekbmkalsel@gmail.com</gco:CharacterString>
+              </electronicMailAddress>
+            </CI_Address>
+          </address>
+          <onlineResource>
+            <CI_OnlineResource>
+              <linkage>
+                <URL>https://dinaspupr.kalselprov.go.id/home</URL>
+              </linkage>
+              <applicationProfile>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </applicationProfile>
+              <name>
+                <gco:CharacterString>WEB</gco:CharacterString>
+              </name>
+              <description>
+                <gco:CharacterString>Website Resmi Instansi </gco:CharacterString>
+              </description>
+              <function>
+                <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</CI_OnLineFunctionCode>
+              </function>
+            </CI_OnlineResource>
+          </onlineResource>
+          <hoursOfService>
+            <gco:CharacterString>08:00-16:00 WITA</gco:CharacterString>
+          </hoursOfService>
+          <contactInstructions>
+            <gco:CharacterString>telpon/email</gco:CharacterString>
+          </contactInstructions>
+        </CI_Contact>
+      </contactInfo>
+      <role>
+        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+      </role>
+    </CI_ResponsibleParty>
+  </contact>
+  <contact>
+    <CI_ResponsibleParty>
+      <individualName>
+        <gco:CharacterString></gco:CharacterString>
+      </individualName>
+      <organisationName>
+        <gco:CharacterString>DINAS PEKERJAAN UMUM DAN PENATAAN RUANG</gco:CharacterString>
+      </organisationName>
+      <positionName>
+        <gco:CharacterString>Operator SKPD DPUPR Bidang Pertanahan</gco:CharacterString>
+      </positionName>
+      <contactInfo>
+        <CI_Contact>
+          <phone>
+            <CI_Telephone>
+              <voice>
+                <gco:CharacterString>(0511) 67492</gco:CharacterString>
+              </voice>
+              <facsimile>
+                <gco:CharacterString>(0511) 6749213</gco:CharacterString>
+              </facsimile>
+            </CI_Telephone>
+          </phone>
+          <address>
+            <CI_Address>
+              <deliveryPoint>
+                <gco:CharacterString>Jalan Dharma Praja, Palam, Cempaka, Kota Banjar Baru, Kalimantan Selatan 70114</gco:CharacterString>
+              </deliveryPoint>
+              <city>
+                <gco:CharacterString>BANJARBARU</gco:CharacterString>
+              </city>
+              <administrativeArea>
+                <gco:CharacterString>Kalimantan Selatan</gco:CharacterString>
+              </administrativeArea>
+              <postalCode>
+                <gco:CharacterString>70711</gco:CharacterString>
+              </postalCode>
+              <country>
+                <gco:CharacterString>Indonesia</gco:CharacterString>
+              </country>
+              <electronicMailAddress>
+                <gco:CharacterString>bintekbmkalsel@gmail.com</gco:CharacterString>
+              </electronicMailAddress>
+            </CI_Address>
+          </address>
+          <onlineResource>
+            <CI_OnlineResource>
+              <linkage>
+                <URL>https://dinaspupr.kalselprov.go.id/home</URL>
+              </linkage>
+              <name>
+                <gco:CharacterString>Web</gco:CharacterString>
+              </name>
+              <description>
+                <gco:CharacterString>WebSite Resmi Instansi</gco:CharacterString>
+              </description>
+              <function>
+                <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</CI_OnLineFunctionCode>
+              </function>
+            </CI_OnlineResource>
+          </onlineResource>
+          <hoursOfService>
+            <gco:CharacterString>08:00-16:00 WITA</gco:CharacterString>
+          </hoursOfService>
+          <contactInstructions>
+            <gco:CharacterString>telpon/email</gco:CharacterString>
+          </contactInstructions>
+        </CI_Contact>
+      </contactInfo>
+      <role>
+        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+      </role>
+    </CI_ResponsibleParty>
+  </contact>
+  
+  <dateStamp>
+    <gco:Date>2022-09-02</gco:Date>
+  </dateStamp>
+  <metadataStandardName>
+    <gco:CharacterString>SNI 8843 - Profil Metadata Spasial Indonesia</gco:CharacterString>
+  </metadataStandardName>
+  <metadataStandardVersion>
+    <gco:CharacterString>SNI 8843-1:2019</gco:CharacterString>
+  </metadataStandardVersion>
+  <dataSetURI>
+    <gco:CharacterString>https://geoportal.kalselprov.go.id/csw</gco:CharacterString>
+  </dataSetURI>
+  <spatialRepresentationInfo>
+    <MD_VectorSpatialRepresentation>
+      <topologyLevel>
+        <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+      </topologyLevel>
+      <geometricObjects>
+        <MD_GeometricObjects>
+          <geometricObjectType>
+            <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="complex" codeSpace="ISOTC211/19115">complex</MD_GeometricObjectTypeCode>
+          </geometricObjectType>
+          <geometricObjectCount>
+            <gco:Integer>432</gco:Integer>
+          </geometricObjectCount>
+        </MD_GeometricObjects>
+      </geometricObjects>
+    </MD_VectorSpatialRepresentation>
+  </spatialRepresentationInfo>
+  <referenceSystemInfo>
+    <MD_ReferenceSystem>
+      <referenceSystemIdentifier>
+        <RS_Identifier>
+          <authority>
+            <CI_Citation>
+              <title>
+                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
+              </title>
+              <alternateTitle>
+                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
+              </alternateTitle>
+              <date>
+                <CI_Date>
+                  <date>
+                    <gco:Date>2016-12-31</gco:Date>
+                  </date>
+                  <dateType>
+                    <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+                  </dateType>
+                </CI_Date>
+              </date>
+			   <citedResponsibleParty>
+                <CI_ResponsibleParty>
+                  <organisationName>
+                    <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
+                  </organisationName>
+                  <contactInfo>
+                    <CI_Contact>
+                      <onlineResource>
+                        <CI_OnlineResource>
+                          <linkage>
+                            <URL>http://www.epsg-registry.org</URL>
+                          </linkage>
+                        </CI_OnlineResource>
+                      </onlineResource>
+                    </CI_Contact>
+                  </contactInfo>
+                  <role>
+                    <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                  </role>
+                </CI_ResponsibleParty>
+              </citedResponsibleParty>		  
+              <collectiveTitle>
+                <gco:CharacterString>EPSG</gco:CharacterString>
+              </collectiveTitle>
+            </CI_Citation>
+          </authority>
+          <code>
+            <gco:CharacterString>4326</gco:CharacterString>
+          </code>
+          <codeSpace>
+            <gco:CharacterString>EPSG</gco:CharacterString>
+          </codeSpace>
+		  
+          <version>
+            <gco:CharacterString>6.18.3</gco:CharacterString>
+          </version>
+        </RS_Identifier>
+      </referenceSystemIdentifier>
+    </MD_ReferenceSystem>
+  </referenceSystemInfo>
+  <identificationInfo>
+    <MD_DataIdentification>
+      <citation>
+        <CI_Citation>
+          <title>
+            <gco:CharacterString>SUNGAI AR 250K</gco:CharacterString>
+          </title>
+          <alternateTitle>
+            <gco:CharacterString>SUNGAI AR 250K</gco:CharacterString>
+          </alternateTitle>
+          <date>
+            <CI_Date>
+              <date>
+                <gco:Date>2015-01-01</gco:Date>
+              </date>
+              <dateType>
+                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+              </dateType>
+            </CI_Date>
+          </date>
+          <date>
+            <CI_Date>
+              <date>
+                <gco:Date>2015-01-01</gco:Date>
+              </date>
+              <dateType>
+                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+              </dateType>
+            </CI_Date>
+          </date>
+          <edition>
+            <gco:CharacterString>1</gco:CharacterString>
+          </edition>
+          <presentationForm>
+            <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+          </presentationForm>
+          <otherCitationDetails>
+            <gco:CharacterString>Kajian kerjasaman dengan...</gco:CharacterString>
+          </otherCitationDetails>
+          <collectiveTitle>
+            <gco:CharacterString>SUNGAI AR 250K</gco:CharacterString>
+          </collectiveTitle>
+        </CI_Citation>
+      </citation>
+      <abstract>
+        <gco:CharacterString>Rupa Bumi Indonesia Area Sungai Kalimantan Selatan, Wadah air alami dan/atau buatan berupa jaringan pengaliran air beserta air di dalamnya, mulai dari hulu sampai muara, dengan dibatasi kanan dan kiri oleh garis sempadan, Standar KUGI yang diacu SUNGAI_AR_100K, Format AR_250K belum tersedia di dalam KUGI. Nama file asli adalah Sungai AR 250K.</gco:CharacterString>
+      </abstract>
+      <purpose>
+        <gco:CharacterString>Rupa Bumi Indonesia Area Sungai Kalimantan Selatan, Wadah air alami dan/atau buatan berupa jaringan pengaliran air beserta air di dalamnya, mulai dari hulu sampai muara, dengan dibatasi kanan dan kiri oleh garis sempadan, Standar KUGI yang diacu SUNGAI_AR_100K, Format AR_250K belum tersedia di dalam KUGI. Nama file asli adalah Sungai AR 250K.</gco:CharacterString>
+      </purpose>
+      <credit>
+        <gco:CharacterString>BAPPEDA</gco:CharacterString>
+      </credit>
+      <pointOfContact>
+        <CI_ResponsibleParty>
+          <individualName>
+            <gco:CharacterString>Ir. M. YASIN TOYIB, ST</gco:CharacterString>
+          </individualName>
+          <organisationName>
+            <gco:CharacterString>DINAS PEKERJAAN UMUM DAN PENATAAN RUANG</gco:CharacterString>
+          </organisationName>
+          <positionName>
+            <gco:CharacterString>Pejabat Eselon III Bidang Pertanahan</gco:CharacterString>
+          </positionName>
+          <contactInfo>
+            <CI_Contact>
+              <phone>
+                <CI_Telephone>
+                  <voice>
+                    <gco:CharacterString>(0511) 67492</gco:CharacterString>
+                  </voice>
+                  <facsimile>
+                    <gco:CharacterString>(0511) 6749213</gco:CharacterString>
+                  </facsimile>
+                </CI_Telephone>
+              </phone>
+              <address>
+                <CI_Address>
+                  <deliveryPoint>
+                    <gco:CharacterString>Jalan Dharma Praja, Palam, Cempaka, Kota Banjar Baru, Kalimantan Selatan 70114</gco:CharacterString>
+                  </deliveryPoint>
+                  <city>
+                    <gco:CharacterString>BANJARBARU</gco:CharacterString>
+                  </city>
+                  <administrativeArea>
+                    <gco:CharacterString>Kalimantan Selatan</gco:CharacterString>
+                  </administrativeArea>
+                  <postalCode>
+                    <gco:CharacterString>70711</gco:CharacterString>
+                  </postalCode>
+                  <country>
+                    <gco:CharacterString>IND</gco:CharacterString>
+                  </country>
+                  <electronicMailAddress>
+                    <gco:CharacterString>bintekbmkalsel@gmail.com</gco:CharacterString>
+                  </electronicMailAddress>
+                </CI_Address>
+              </address>
+              <onlineResource>
+                <CI_OnlineResource>
+                  <linkage>
+                    <URL>https://dinaspupr.kalselprov.go.id/home</URL>
+                  </linkage>
+                  <applicationProfile>
+                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                  </applicationProfile>
+                  <name>
+                    <gco:CharacterString>Informasi</gco:CharacterString>
+                  </name>
+                  <description>
+                    <gco:CharacterString>Website Resmin Instnasi</gco:CharacterString>
+                  </description>
+                  <function>
+                    <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</CI_OnLineFunctionCode>
+                  </function>
+                </CI_OnlineResource>
+              </onlineResource>
+              <hoursOfService>
+                <gco:CharacterString>08:00-16:00 WITA</gco:CharacterString>
+              </hoursOfService>
+              <contactInstructions>
+                <gco:CharacterString>telpon/email</gco:CharacterString>
+              </contactInstructions>
+            </CI_Contact>
+          </contactInfo>
+          <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author" codeSpace="ISOTC211/19115">author</CI_RoleCode>
+          </role>
+        </CI_ResponsibleParty>
+      </pointOfContact>
+      <pointOfContact>
+        <CI_ResponsibleParty>
+          <individualName>
+            <gco:CharacterString></gco:CharacterString>
+          </individualName>
+          <organisationName>
+            <gco:CharacterString>DINAS PEKERJAAN UMUM DAN PENATAAN RUANG</gco:CharacterString>
+          </organisationName>
+          <positionName>
+            <gco:CharacterString>Operator SKPD DPUPR Bidang Pertanahan</gco:CharacterString>
+          </positionName>
+          <contactInfo>
+            <CI_Contact>
+              <phone>
+                <CI_Telephone>
+                  <voice>
+                    <gco:CharacterString>(0511) 67492</gco:CharacterString>
+                  </voice>
+                  <facsimile>
+                    <gco:CharacterString>(0511) 6749213</gco:CharacterString>
+                  </facsimile>
+                </CI_Telephone>
+              </phone>
+              <address>
+                <CI_Address>
+                  <deliveryPoint>
+                    <gco:CharacterString>Jalan Dharma Praja, Palam, Cempaka, Kota Banjar Baru, Kalimantan Selatan 70114</gco:CharacterString>
+                  </deliveryPoint>
+                  <city>
+                    <gco:CharacterString>BANJARBARU</gco:CharacterString>
+                  </city>
+                  <administrativeArea>
+                    <gco:CharacterString>Kalimantan Selatan</gco:CharacterString>
+                  </administrativeArea>
+                  <postalCode>
+                    <gco:CharacterString>70711</gco:CharacterString>
+                  </postalCode>
+                  <country>
+                    <gco:CharacterString>Indonesia</gco:CharacterString>
+                  </country>
+                  <electronicMailAddress>
+                    <gco:CharacterString>bintekbmkalsel@gmail.com</gco:CharacterString>
+                  </electronicMailAddress>
+                </CI_Address>
+              </address>
+              <onlineResource>
+                <CI_OnlineResource>
+                  <linkage>
+                    <URL>https://dinaspupr.kalselprov.go.id/home</URL>
+                  </linkage>
+                  <protocol>
+                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                  </protocol>
+                  <description>
+                    <gco:CharacterString>WebSite Resmi Instansi</gco:CharacterString>
+                  </description>
+                  <function>
+                    <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</CI_OnLineFunctionCode>
+                  </function>
+                </CI_OnlineResource>
+              </onlineResource>
+              <hoursOfService>
+                <gco:CharacterString>08:00-16:00 WITA</gco:CharacterString>
+              </hoursOfService>
+              <contactInstructions>
+                <gco:CharacterString>telpon/email</gco:CharacterString>
+              </contactInstructions>
+            </CI_Contact>
+          </contactInfo>
+          <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author" codeSpace="ISOTC211/19115">author</CI_RoleCode>
+          </role>
+        </CI_ResponsibleParty>
+      </pointOfContact>
+      <resourceMaintenance>
+        <MD_MaintenanceInformation>
+          <maintenanceAndUpdateFrequency>
+            <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+          </maintenanceAndUpdateFrequency>
+          <dateOfNextUpdate>
+            <gco:Date>2025-12-31</gco:Date>
+          </dateOfNextUpdate>
+          <userDefinedMaintenanceFrequency>
+            <gts:TM_PeriodDuration>none</gts:TM_PeriodDuration>
+          </userDefinedMaintenanceFrequency>
+          <updateScope>
+			<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="feature" codeSpace="ISOTC211/19115">feature</MD_ScopeCode>
+		  </updateScope>
+          <updateScopeDescription>
+            <MD_ScopeDescription>
+              <dataset>
+                <gco:CharacterString>dataset</gco:CharacterString>
+              </dataset>
+            </MD_ScopeDescription>
+          </updateScopeDescription>
+          <updateScopeDescription>
+            <MD_ScopeDescription>
+              <other>
+                <gco:CharacterString>-</gco:CharacterString>
+              </other>
+            </MD_ScopeDescription>
+          </updateScopeDescription>		  
+          <maintenanceNote>
+            <gco:CharacterString> Dibuat oleh DPUPR</gco:CharacterString>
+          </maintenanceNote>          
+        </MD_MaintenanceInformation>
+      </resourceMaintenance>
+      <descriptiveKeywords>
+        <MD_Keywords>
+          <keyword>
+            <gco:CharacterString>Map Files</gco:CharacterString>
+          </keyword>
+          <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66" />
+        </MD_Keywords>
+      </descriptiveKeywords>
+      <descriptiveKeywords>
+        <MD_Keywords><keyword><gco:CharacterString>SUNGAI</gco:CharacterString></keyword><keyword><gco:CharacterString> AR</gco:CharacterString></keyword><keyword><gco:CharacterString> AREA</gco:CharacterString></keyword></MD_Keywords>
+      </descriptiveKeywords>
+      <resourceConstraints>
+        <MD_Constraints>
+          <useLimitation>
+            <gco:CharacterString>Data ini tidak dapat digunakan untuk skala yang lebih besar dari skala data</gco:CharacterString>
+          </useLimitation>
+        </MD_Constraints>
+		<MD_LegalConstraints>
+			<accessConstraints>
+				<MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+			</accessConstraints>
+		</MD_LegalConstraints>
+      </resourceConstraints>	  
+      <spatialRepresentationType>
+        <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+      </spatialRepresentationType>
+      <spatialResolution>
+        <MD_Resolution>
+          <equivalentScale>
+            <MD_RepresentativeFraction>
+              <denominator>
+                <gco:Integer>250000</gco:Integer>
+              </denominator>
+            </MD_RepresentativeFraction>
+          </equivalentScale>
+        </MD_Resolution>
+      </spatialResolution>
+      <spatialResolution>
+        <MD_Resolution>
+          <distance>
+            <gco:Distance uom="m">60</gco:Distance>
+          </distance>
+        </MD_Resolution>
+      </spatialResolution>
+      <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="ind" codeSpace="ISO639-2">ind</LanguageCode>
+      </language>
+      <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+      </characterSet>
+      <topicCategory>
+        <MD_TopicCategoryCode>hidrografi</MD_TopicCategoryCode>
+      </topicCategory>
+      <environmentDescription>
+        <gco:CharacterString>SNI 8843 - Profil Metadata Spasial Indonesia</gco:CharacterString>
+      </environmentDescription>
+      <extent>
+        <EX_Extent>
+          <description>
+            <gco:CharacterString>Region Kalimantan Selatan</gco:CharacterString>
+          </description>
+          <geographicElement>
+            <EX_GeographicBoundingBox>
+              <extentTypeCode>
+                <gco:Boolean>true</gco:Boolean>
+              </extentTypeCode>
+              <westBoundLongitude>
+                <gco:Decimal>114.41136152733554</gco:Decimal>
+              </westBoundLongitude>
+              <eastBoundLongitude>
+                <gco:Decimal>116.40222556800006</gco:Decimal>
+              </eastBoundLongitude>
+              <southBoundLatitude>
+                <gco:Decimal>-3.604116637999937</gco:Decimal>
+              </southBoundLatitude>
+              <northBoundLatitude>
+                <gco:Decimal>-1.492159206998202</gco:Decimal>
+              </northBoundLatitude>
+            </EX_GeographicBoundingBox>
+          </geographicElement>
+          <verticalElement>
+            <EX_VerticalExtent>
+              <minimumValue>
+                <gco:Real>250000</gco:Real>
+              </minimumValue>
+              <maximumValue>
+                <gco:Real>250000</gco:Real>
+              </maximumValue>
+              <verticalCRS gco:nilReason="other:see_referenceSystemInfo" />
+            </EX_VerticalExtent>
+          </verticalElement>
+        </EX_Extent>
+      </extent>
+      <supplementalInformation>
+        <gco:CharacterString>Data ini tidak dapat digunakan untuk skala yang lebih besar dari skala data</gco:CharacterString>
+      </supplementalInformation>
+    </MD_DataIdentification>
+  </identificationInfo>
+  <contentInfo>
+    <MD_FeatureCatalogueDescription>
+      <complianceCode>
+        <gco:Boolean>true</gco:Boolean>
+      </complianceCode>
+      <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="ind" codeSpace="ISO639-2">ind</LanguageCode>
+      </language>
+      <includedWithDataset>
+        <gco:Boolean>false</gco:Boolean>
+      </includedWithDataset>
+      <featureCatalogueCitation>
+        <CI_Citation>
+          <title>
+            <gco:CharacterString>Katalog Unsur Geografis Indonesia</gco:CharacterString>
+          </title>
+          <date>
+            <CI_Date>
+              <date>
+                <gco:Date>2017-01-01</gco:Date>
+              </date>
+              <dateType>
+                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+              </dateType>
+            </CI_Date>
+          </date>
+          <date>
+            <CI_Date>
+              <date>
+                <gco:Date>2017-01-01</gco:Date>
+              </date>
+              <dateType>
+                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+              </dateType>
+            </CI_Date>
+          </date>
+          <edition>
+            <gco:CharacterString>5.1</gco:CharacterString>
+          </edition>          
+          <otherCitationDetails>
+            <gco:CharacterString>none</gco:CharacterString>
+          </otherCitationDetails>
+          <collectiveTitle>
+            <gco:CharacterString>KUGI V.5</gco:CharacterString>
+          </collectiveTitle>
+          	<citedResponsibleParty>
+                <CI_ResponsibleParty>
+                  <contactInfo>
+                    <CI_Contact>
+                      <onlineResource>
+                        <CI_OnlineResource>
+                          <linkage>
+                            <URL>https://kugi.ina-sdi.or.id</URL>
+                          </linkage>
+                          <applicationProfile>
+                            <gco:CharacterString>Katalog Unsur Geografi Indonesia</gco:CharacterString>
+                          </applicationProfile>
+                          <name>
+                            <gco:CharacterString>KUGI</gco:CharacterString>
+                          </name>
+                          <description>
+                            <gco:CharacterString>Katalog Unsur Geografi Indonesia (KUGI) adalah pemberian kode dan struktur kode, penetapan tipe, operasi, atribut, asosiasi, dan aturan-aturan pendokumentasian atas unsur yang direpresentasikan dalam data geografis sesuai dengan Peraturan BIG Nomor 12 Tahun 2013. (Disusun berdasarkan SNI ISO 19110)</gco:CharacterString>
+                          </description>
+                          <function>
+                            <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</CI_OnLineFunctionCode>
+                          </function>
+                        </CI_OnlineResource>
+                      </onlineResource>
+                    </CI_Contact>
+                  </contactInfo>
+                </CI_ResponsibleParty>
+              </citedResponsibleParty>
+        </CI_Citation>
+      </featureCatalogueCitation>
+    </MD_FeatureCatalogueDescription>
+  </contentInfo>
+  <distributionInfo>
+    <MD_Distribution>
+      <distributionFormat>
+        <MD_Format>
+          <name>
+            <gco:CharacterString>File Feature </gco:CharacterString>
+          </name>
+          <version>
+            <gco:CharacterString>shapefile</gco:CharacterString>
+          </version>
+        </MD_Format>
+      </distributionFormat>
+      <distributor>
+        <MD_Distributor>
+          <distributorContact>
+            <CI_ResponsibleParty>
+              <individualName>
+                <gco:CharacterString>Dr.H. Muhammad Muslim, S.Pd, M.Kes</gco:CharacterString>
+              </individualName>
+              <organisationName>
+                <gco:CharacterString>Sungai_AR_250K</gco:CharacterString>
+              </organisationName>
+              <positionName>
+                <gco:CharacterString>Kepala Dinas</gco:CharacterString>
+              </positionName>
+              <contactInfo>
+                <CI_Contact>
+                  <phone>
+                    <CI_Telephone>
+                      <voice>
+                        <gco:CharacterString>0511-6749844</gco:CharacterString>
+                      </voice>
+                      <facsimile>
+                        <gco:CharacterString>0511-6749842</gco:CharacterString>
+                      </facsimile>
+                    </CI_Telephone>
+                  </phone>
+                  <address>
+                    <CI_Address>
+                      <deliveryPoint>
+                        <gco:CharacterString>Jl. Dharma Praja II - Kawasan Perkantoran Pemerintah Provinsi Kalimantan Selatan</gco:CharacterString>
+                      </deliveryPoint>
+                      <city>
+                        <gco:CharacterString>BANJARBARU</gco:CharacterString>
+                      </city>
+                      <administrativeArea>
+                        <gco:CharacterString>Kalimantan Selatan</gco:CharacterString>
+                      </administrativeArea>
+                      <postalCode>
+                        <gco:CharacterString>70712</gco:CharacterString>
+                      </postalCode>
+                      <country>
+                        <gco:CharacterString>Indonesia</gco:CharacterString>
+                      </country>
+                      <electronicMailAddress>
+                        <gco:CharacterString>diskominfo@kalselprov.go.id</gco:CharacterString>
+                      </electronicMailAddress>
+                    </CI_Address>
+                  </address>
+                  <onlineResource>
+                    <CI_OnlineResource>
+                      <linkage>
+                        <URL>https://data.kalselprov.go.id/</URL>
+                      </linkage>
+                      <applicationProfile>
+                        <gco:CharacterString>Portal Satu Data Banua</gco:CharacterString>
+                      </applicationProfile>
+                      <name>
+                        <gco:CharacterString>Satu Data</gco:CharacterString>
+                      </name>
+                      <description>
+                        <gco:CharacterString>Portal Satu Data Geospasial Daerah Provinsi Kalimantan Selatan</gco:CharacterString>
+                      </description>
+                      <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</CI_OnLineFunctionCode>
+                      </function>
+                    </CI_OnlineResource>
+                  </onlineResource>
+                  <hoursOfService>
+                    <gco:CharacterString>Senin - Jum&apos;at, 8:00 - 16:00 WITA</gco:CharacterString>
+                  </hoursOfService>
+                  <contactInstructions>
+                    <gco:CharacterString>email/telpon</gco:CharacterString>
+                  </contactInstructions>
+                </CI_Contact>
+              </contactInfo>
+              <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="ISOTC211/19115">custodian</CI_RoleCode>
+              </role>
+            </CI_ResponsibleParty>
+          </distributorContact>
+          <distributorFormat>
+            <MD_Format>
+              <name>
+                <gco:CharacterString>xml</gco:CharacterString>
+              </name>
+              <version>
+                <gco:CharacterString>1</gco:CharacterString>
+              </version>
+            </MD_Format>
+          </distributorFormat>
+          <distributorTransferOptions>
+            <MD_DigitalTransferOptions>
+              <unitsOfDistribution>
+                <gco:CharacterString>online</gco:CharacterString>
+              </unitsOfDistribution>
+              <transferSize>
+                <gco:Real>7.191</gco:Real>
+              </transferSize>
+              <onLine>
+                <CI_OnlineResource>
+                  <linkage>
+                    <URL>http://geoservice.kalselprov.go.id/</URL>
+                  </linkage>
+                  <protocol>
+                    <gco:CharacterString>www</gco:CharacterString>
+                  </protocol>
+                  <applicationProfile>
+                    <gco:CharacterString>website</gco:CharacterString>
+                  </applicationProfile>
+                  <name>
+                    <gco:CharacterString>Geoservice Kalsel</gco:CharacterString>
+                  </name>
+                  <description>
+                    <gco:CharacterString>Website Simpul Jaringan Informasi Geospasial Daerah Provinsi Kalimantan Selatan</gco:CharacterString>
+                  </description>
+                  <function>
+                    <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                  </function>
+                </CI_OnlineResource>
+              </onLine>
+              <offLine>
+                <MD_Medium>
+                  <name>
+                    <MD_MediumNameCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MediumNameCode" codeListValue="hardcopy" codeSpace="ISOTC211/19115">hardcopy</MD_MediumNameCode>
+                  </name>
+                  <mediumNote>
+                    <gco:CharacterString>Kantor Bappeda Provinsi Kalimantan Selatan</gco:CharacterString>
+                  </mediumNote>
+                </MD_Medium>
+              </offLine>
+            </MD_DigitalTransferOptions>
+          </distributorTransferOptions>
+        </MD_Distributor>
+      </distributor>
+    </MD_Distribution>
+  </distributionInfo>
+  <dataQualityInfo>
+    <DQ_DataQuality>
+      <scope>
+        <DQ_Scope>
+          <level>
+            <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="featureType" codeSpace="ISOTC211/19115">featureType</MD_ScopeCode>
+          </level>
+        </DQ_Scope>
+      </scope>
+	  <report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Pengujian konseptual pada data MERATUS KAWASAN STRATEGIS AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Hasil uji konsistensi sudah memenuhi standar yang dipersyaratkan </gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>pemeriksaan terkait konseptual data sudah sesuai dengan kaidah pemetaan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta MERATUS KAWASAN STRATEGIS AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji Uji Konsistensi format pada data MERATUS KAWASAN STRATEGIS AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Isian atribut sudah cukup lengkap sesuai dengan atribut KUGI</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Uji konsistensi topologi pada MERATUS KAWASAN STRATEGIS AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Dari hasil pengujian, topologi yang terdapat pada data telah sesuai dengan aturan topologi</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Tidak ada objek yang menumpuk jadi satu pada posisi yang sama, tidak ada objek yang menumpuk jadi satu pada posisi yang sama antar unsur</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Pengujian konseptual pada data PULAU LAUT JEMBATAN LN 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Hasil uji konsistensi sudah memenuhi standar yang dipersyaratkan </gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Data tersebut telah memenuhi kaidah standar informasi geospasial</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta PULAU LAUT JEMBATAN LN 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut peta 29112021 PULAU LAUT JEMBATAN LN 50K membandingkan sesuai atribut KUGI</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji Uji Konsistensi format pada data PULAU LAUT JEMBATAN LN 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Isian atribut data PULAU LAUT JEMBATAN LN 50K sudah sesuai dengan atribut KUGI</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>format data telah sesuai dengan peraturan yang ditetapkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data PULAU LAUT JEMBATAN LN 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat line pada data tersebut, tidak ada objek yang menumpuk pada satu posisi yang sama</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Berdsarkan hasil uji peta PULAU LAUT JEMBATAN LN 50K</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data Saluran Pembuang Rehab IRIGASI_LN_50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta Saluran Pembuang Rehab IRIGASI_LN_50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data Saluran Pembuang Rehab IRIGASI_LN_50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat line pada data tersebut, tidak ada objek yang menumpuk pada satu posisi yang sama</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Nilai konsistensi topologi yang terdapat pada data Saluran Pembuang Rehab IRIGASI_LN_50K telah sesuai dengan aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data Saluran Pembuang Rehab IRIGASI_LN_50K yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data telah sesuai yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data RIAM KANAN SAWAH AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta RIAM KANAN SAWAH AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data RIAM KANAN SAWAH AR 50K yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data telah sesuai yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data RIAM KANAN SAWAH AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat poligon pada data tersebut, tidak ada objek yang menumpuk pada satu posisi yang sama</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Nilai konsistensi topologi yang terdapat pada data RIAM KANAN SAWAH AR 50K telah sesuai dengan aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data TAPIN SAWAH AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta TAPIN SAWAH AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data TAPIN SAWAH AR 50K yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data TAPIN SAWAH AR 50K yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data TAPIN SAWAH AR 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat area pada data TAPIN SAWAH AR 50K</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Nilai konsistensi topologi yang terdapat pada data telah sesuai dengan aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data TERMINALBUS_PT_250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta TERMINALBUS PT 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data TERMINALBUS_PT_250K yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data telah sesuai yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data TERMINALBUS_PT_250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat line pada data tersebut, tidak ada objek yang menumpuk pada satu posisi yang sama</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Nilai konsistensi topologi yang terdapat pada data TERMINALBUS_PT_250K telah sesuai dengan aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Pengujian konseptual pada data KAWASAN LINDUNG LAUT DAERAH BLOKKSAKPA AR 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Hasil uji konsistensi data KAWASAN LINDUNG LAUT DAERAH BLOKKSAKPA AR 250K sudah memenuhi standar yang dipersyaratkan </gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Data tersebut telah memenuhi kaidah standar informasi geospasial</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta KAWASAN LINDUNG LAUT DAERAH BLOKKSAKPA AR 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut peta KAWASAN LINDUNG LAUT DAERAH BLOKKSAKPA AR 250K membandingkan sesuai atribut KUGI</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji Uji Konsistensi format pada data ADMINISTRASIDESA AR 5K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Isian atribut sudah sesuai dengan atribut KUGI</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data telah sesuai dengan peraturan yang ditetapkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pata peta KAWASAN LINDUNG LAUT DAERAH BLOKKSAKPA AR 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Berdasarkan uji topologi, tidak ada point yang menimpa satu sama laian, tidak ada objek yang bertumpuk pada titik yang sama </gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>peta KAWASAN LINDUNG LAUT DAERAH BLOKKSAKPA AR 250K telah sesuai aturan topologi yang berlaku</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data Kawasan Lindung Laut Daerah BLOKKSAKPA AR 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta Kawasan Lindung Laut Daerah BLOKKSAKPA AR 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data Kawasan Lindung Laut Daerah BLOKKSAKPA AR 250K yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data telah sesuai yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Melakukan uji konsistensi topologi pada data topologi peta Kawasan Lindung Laut Daerah BLOKKSAKPA AR 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada objek yang menumpuk jadi satu pada posisi yang sama</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>konsistensi topologi telah sesuai dengan aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Pengujian konseptual pada data STRUKTURPUSATKOTA PT 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Hasil uji konsistensi sudah memenuhi standar yang dipersyaratkan </gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>pemeriksaan terkait konseptual data sudah sesuai dengan kaidah pemetaan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta STRUKTURPUSATKOTA PT 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji Uji Konsistensi format pada data STRUKTURPUSATKOTA PT 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Isian atribut sudah cukup lengkap sesuai dengan atribut KUGI</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format Peta telah sesuai dengan aturan KUGI. Format data dalam bentuk shapefile (.shp)</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Uji konsistensi topologi pada STRUKTURPUSATKOTA PT 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Dari hasil pengujian, topologi yang terdapat pada data telah sesuai dengan aturan topologi</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Tidak ada poligon yang menumpuk pada posisi yang sama</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data STRUKTURINFRASTRUKTUR PT 25K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta STRUKTURINFRASTRUKTUR PT 25K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data STRUKTURINFRASTRUKTUR PT 25K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat point pada data STRUKTURINFRASTRUKTUR PT 25K, </gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Berdasarkan hasil uji peta STRUKTURINFRASTRUKTUR PT 25K telah sesuai aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data STRUKTURINFRASTRUKTUR PT 25K yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data telah sesuai yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data JARINGAN PEMBANGKIT LISTRIK GENLISTRIK PT 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta JARINGAN PEMBANGKIT LISTRIK GENLISTRIK PT 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data JARINGAN PEMBANGKIT LISTRIK GENLISTRIK PT 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Data peta Data peta JARINGAN PEMBANGKIT LISTRIK GENLISTRIK PT 250K telah sesuai format, dengan format file yang digunakan dalam bentuk (.shp) telah sesuai format, dengan format file yang digunakan dalam bentuk (.shp)</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data JARINGAN PEMBANGKIT LISTRIK GENLISTRIK PT 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada poligon yang berada pada posisi yang sama pada JARINGAN PEMBANGKIT LISTRIK GENLISTRIK PT 250K</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji topologi peta JARINGAN PEMBANGKIT LISTRIK GENLISTRIK PT 250K telah sesuai dengan aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Pengujian konseptual pada data JARINGAN TRANSMISI LISTRIK GENLISTRIK LN 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Hasil uji konsistensi sudah memenuhi standar yang dipersyaratkan </gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>pemeriksaan terkait konseptual data sudah sesuai dengan kaidah pemetaan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta JARINGAN TRANSMISI LISTRIK GENLISTRIK LN 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji Uji Konsistensi format pada data JARINGAN TRANSMISI LISTRIK GENLISTRIK LN 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Isian atribut sudah cukup lengkap sesuai dengan atribut KUGI</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format Peta telah sesuai dengan aturan KUGI. Format data dalam bentuk shapefile (.shp)</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Uji konsistensi topologi pada JARINGAN TRANSMISI LISTRIK GENLISTRIK LN 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada line yang berpotongan pada titik yang sama, tidak ada garis berbeda yang berpotongan </gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>peta JARINGAN TRANSMISI LISTRIK GENLISTRIK LN 250K telah sesuai aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data SENTRATELEPON_PT_50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta SENTRATELEPON_PT_50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data SENTRATELEPON_PT_50K yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data telah sesuai yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data SENTRATELEPON_PT_50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat point pada data tersebut</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data SUNGAI LN 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta SUNGAI LN 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data SUNGAI LN 50K yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data telah sesuai yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data SUNGAI LN 50K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat line pada data tersebut, tidak ada objek yang menumpuk pada satu posisi yang sama</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Nilai konsistensi topologi yang terdapat pada data SUNGAI LN 50K  telah sesuai dengan aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data TPA STRUKTURPRASARANA LN 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data TPA STRUKTURPRASARANA LN 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data TPA STRUKTURPRASARANA LN 250K yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Format data TPA STRUKTURPRASARANA LN 250K yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data TPA STRUKTURPRASARANA LN 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat line pada data TPA STRUKTURPRASARANA LN 250K, tidak ada objek yang menumpuk pada satu posisi yang sama</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji topologi  telah sesuai dengan aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report><report>
+			<DQ_ConceptualConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data SUNGAI AR 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_ConceptualConsistency>
+		  </report><report>
+			<DQ_DomainConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta SUNGAI AR 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_DomainConsistency>
+		  </report><report>
+			<DQ_FormatConsistency>
+			  <measureDescription>
+				<gco:CharacterString></gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="" codeSpace="ISOTC211/19115"></DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString></gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString></gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>false</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType></gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString></gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_FormatConsistency>
+		  </report><report>
+			<DQ_TopologicalConsistency>
+			  <measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data SUNGAI AR 250K</gco:CharacterString>
+			  </measureDescription>
+			  <evaluationMethodType>
+				<DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</DQ_EvaluationMethodTypeCode>
+			  </evaluationMethodType>
+			  <evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada duplikat titik pada peta SUNGAI AR 250K</gco:CharacterString>
+			  </evaluationMethodDescription>
+			  <result>
+				<DQ_ConformanceResult>
+				  <specification gco:nilReason="missing" />
+				  <explanation>
+					<gco:CharacterString>Hasil uji topologi pada peta TERMINALBUS PT 50K sudah sesuai dengan aturan topologi</gco:CharacterString>
+				  </explanation>
+				  <pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </pass>
+				</DQ_ConformanceResult>
+			  </result>
+			  <result>
+				<DQ_QuantitativeResult>
+				  <valueType>
+					<gco:RecordType>pemeriksaan menyeluruh</gco:RecordType>
+				  </valueType>
+				  <valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM">U</gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </valueUnit>
+				  <errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </errorStatistic>
+				  <value>
+					<gco:Record>100</gco:Record>
+				  </value>
+				</DQ_QuantitativeResult>
+			  </result>
+			</DQ_TopologicalConsistency>
+		  </report>  		  
+      <lineage>
+        <LI_Lineage>
+          <statement>
+            <gco:CharacterString>Peta ini dibuat dengan citra satelit dari LAPAN-RI        </gco:CharacterString>
+          </statement>
+          <source>
+            <LI_Source>
+              <description>
+                <gco:CharacterString>Data ini hasil dari digitasi citra satelit        </gco:CharacterString>
+              </description>
+              <scaleDenominator>
+                <MD_RepresentativeFraction>
+                  <denominator>
+                    <gco:Integer>250000</gco:Integer>
+                  </denominator>
+                </MD_RepresentativeFraction>
+              </scaleDenominator>
+            </LI_Source>
+          </source>
+        </LI_Lineage>
+      </lineage>
+    </DQ_DataQuality>
+  </dataQualityInfo>
+  <portrayalCatalogueInfo>
+    <MD_PortrayalCatalogueReference>
+      <portrayalCatalogueCitation>
+        <CI_Citation>
+          <title>
+            <gco:CharacterString>Katalog Unsur Geografi Indonesia</gco:CharacterString>
+          </title>
+          <alternateTitle>
+            <gco:CharacterString>SNI Penyajian Peta</gco:CharacterString>
+          </alternateTitle>
+          <date>
+            <CI_Date>
+              <date>
+                <gco:Date>2017-01-01</gco:Date>
+              </date>
+              <dateType>
+                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+              </dateType>
+            </CI_Date>
+          </date>
+          <edition>
+            <gco:CharacterString>5</gco:CharacterString>
+          </edition>
+          <editionDate>
+            <gco:Date>2020-01-01</gco:Date>
+          </editionDate>
+          <citedResponsibleParty>
+            <CI_ResponsibleParty>
+              <individualName>
+                <gco:CharacterString>Kepala Pusat PPIG</gco:CharacterString>
+              </individualName>
+              <organisationName>
+                <gco:CharacterString>Badan Informasi Geospasial</gco:CharacterString>
+              </organisationName>
+              <positionName>
+                <gco:CharacterString>Kepala Pusat PPIG</gco:CharacterString>
+              </positionName>
+              <contactInfo>
+                <CI_Contact>
+                  <address>
+                    <CI_Address>
+                      <city>
+                        <gco:CharacterString>Jakarta</gco:CharacterString>
+                      </city>
+                      <administrativeArea>
+                        <gco:CharacterString>DKI Jakarta</gco:CharacterString>
+                      </administrativeArea>
+                      <postalCode>
+                        <gco:CharacterString>70731</gco:CharacterString>
+                      </postalCode>
+                      <country>
+                        <gco:CharacterString>Indonesia</gco:CharacterString>
+                      </country>
+                      <electronicMailAddress>
+                        <gco:CharacterString>info@big.go.id</gco:CharacterString>
+                      </electronicMailAddress>
+                    </CI_Address>
+                  </address>
+                  <onlineResource>
+                    <CI_OnlineResource>
+                      <linkage>
+                        <URL>http://tanahiar.indonesia.go.id</URL>
+                      </linkage>
+                      <applicationProfile>
+                        <gco:CharacterString>INA-GEOPORTAL</gco:CharacterString>
+                      </applicationProfile>
+                      <name>
+                        <gco:CharacterString>JIGN</gco:CharacterString>
+                      </name>
+                      <description>
+                        <gco:CharacterString>Jaringan Informasi Geospasial Nasional</gco:CharacterString>
+                      </description>
+                      <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</CI_OnLineFunctionCode>
+                      </function>
+                    </CI_OnlineResource>
+                  </onlineResource>
+                  <hoursOfService>
+                    <gco:CharacterString>Senin - Jum&apos;at, 8:00 - 16:00 WIB</gco:CharacterString>
+                  </hoursOfService>
+                </CI_Contact>
+              </contactInfo>
+              <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="owner" codeSpace="ISOTC211/19115">owner</CI_RoleCode>
+              </role>
+            </CI_ResponsibleParty>
+          </citedResponsibleParty>
+          <collectiveTitle>
+            <gco:CharacterString>SNI Penyajian Peta</gco:CharacterString>
+          </collectiveTitle>
+        </CI_Citation>
+      </portrayalCatalogueCitation>
+    </MD_PortrayalCatalogueReference>
+  </portrayalCatalogueInfo>
+</MD_Metadata>

@@ -207,14 +207,14 @@ map = new ol.Map({
 			source: new ol.source.TileArcGISRest({
 				url: 'https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer',
 			}),
-		name: 'World Label',
-		LegenUrl:'',
-		LegentType :'ESRI',
-		InfoPopup : false,
-		metadata : 'https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/info/iteminfo',
-		visible: true
-	 }),
-	 new  ol.layer.Tile({
+      name: 'World Label',
+      LegenUrl:'',
+      LegentType :'ESRI',
+      InfoPopup : false,
+      metadata : 'https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/info/iteminfo',
+      visible: true
+    }),
+  	new  ol.layer.Tile({
 			source: new ol.source.TileArcGISRest({
 				url: 'http://server.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer',
 				}),
@@ -224,26 +224,29 @@ map = new ol.Map({
 			InfoPopup : false,
 			metadata : 'http://server.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer/info/iteminfo',
 			visible: true
-	 }),
-     new ol.layer.Tile({
-            source: new ol.source.TileWMS({
-                    url: 'http://localhost:8080/geoserver/wms?',
-                    params: { 'LAYERS': 'KOTA_ADMINISTRASI_PT_25K' }
-                }),
-        name : "Toponimi",
-        LegenUrl: '',
-			  LegentType :'Geoserver',
     }),
     new ol.layer.Tile({
-            source: new ol.source.TileWMS({
-                    url: 'http://localhost:8080/geoserver/wms?',
-                    params: { 'LAYERS': 'KOTA_ADMINISTRASI_PT_25K' }
-                }),
-        name : "Demografi",
-        LegenUrl: '',
-			  LegentType :'Geoserver',
-    })
-	 ],
+      source: new ol.source.TileWMS({
+          url: 'http://localhost:8080/geoserver/DataGIS/wms?',
+          params: { 'LAYERS': 'DataGIS:PROVINSI_ADMINISTRASI_AR_250K' }
+        }),
+      name : "Polygon"
+    }),
+    new ol.layer.Tile({
+      source: new ol.source.TileWMS({
+          url: 'http://localhost:8080/geoserver/DataGIS/wms?',
+          params: { 'LAYERS': 'DataGIS:Sungai_AR_250K' }
+        }),
+      name : "Polygon"
+    }),
+    new ol.layer.Tile({
+      source: new ol.source.TileWMS({
+          url: 'http://localhost:8080/geoserver/DataGIS/wms?',
+          params: { 'LAYERS': 'DataGIS:Toponimi_PT_50K' }
+        }),
+      name : "Toponimi"
+    }),
+  ],
 	target: 'map',
 	view: new ol.View({
 		center: ol.proj.fromLonLat([115.32424, -2.2323177]),

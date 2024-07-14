@@ -1,0 +1,952 @@
+<csw:GetRecordsResponse xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:ows="http://www.opengis.net/ows" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0.2" xsi:schemaLocation="http://www.opengis.net/cat/csw/2.0.2 http://schemas.opengis.net/csw/2.0.2/CSW-discovery.xsd"><csw:SearchStatus timestamp="2024-01-30T16:07:41Z"/>
+<gmd:MD_Metadata xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
+  <gmd:fileIdentifier>
+    <gco:CharacterString>BIROPEMOTDA:Toponimi_PT_50K</gco:CharacterString>
+  </gmd:fileIdentifier>
+  <gmd:language>
+    <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ind" codeSpace="ISO 639-2">ind</gmd:LanguageCode>
+  </gmd:language>
+  <gmd:characterSet>
+    <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+  </gmd:characterSet>
+  <gmd:hierarchyLevel>
+    <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="FeatureType" codeSpace="ISOTC211/19115">FeatureType</gmd:MD_ScopeCode>
+  </gmd:hierarchyLevel>
+  <gmd:contact>
+    <gmd:CI_ResponsibleParty id="contact-pointOfContact">
+      <gmd:individualName>
+        <gco:CharacterString>Maman Suherman, S.Sos., M.Si</gco:CharacterString>
+      </gmd:individualName>
+      <gmd:organisationName>
+        <gco:CharacterString>BIRO PEMERINTAHAN DAN OTONOMI DAERAH SETDA</gco:CharacterString>
+      </gmd:organisationName>
+      <gmd:positionName>
+        <gco:CharacterString>Pejabat Eselon III Bidang Bagian Pemerintahan</gco:CharacterString>
+      </gmd:positionName>
+      <gmd:contactInfo>
+        <gmd:CI_Contact>
+          <gmd:phone>
+            <gmd:CI_Telephone>
+              <gmd:voice>
+                <gco:CharacterString>0511-4770001</gco:CharacterString>
+              </gmd:voice>
+              <gmd:facsimile>
+                <gco:CharacterString>0511-4770008</gco:CharacterString>
+              </gmd:facsimile>
+            </gmd:CI_Telephone>
+          </gmd:phone>
+          <gmd:address>
+            <gmd:CI_Address>
+              <gmd:deliveryPoint>
+                <gco:CharacterString>Jln. Dharna Praja No. 1 Kawasan Perkantoran Pemprovn Kalsel</gco:CharacterString>
+              </gmd:deliveryPoint>
+              <gmd:city>
+                <gco:CharacterString>BANJARBARU</gco:CharacterString>
+              </gmd:city>
+              <gmd:administrativeArea>
+                <gco:CharacterString>Kalimantan Selatan</gco:CharacterString>
+              </gmd:administrativeArea>
+              <gmd:postalCode>
+                <gco:CharacterString>70712</gco:CharacterString>
+              </gmd:postalCode>
+              <gmd:country>
+                <gco:CharacterString>Indoensia</gco:CharacterString>
+              </gmd:country>
+              <gmd:electronicMailAddress>
+                <gco:CharacterString>biropemerintahan@kalselprov.go.id</gco:CharacterString>
+              </gmd:electronicMailAddress>
+            </gmd:CI_Address>
+          </gmd:address>
+          <gmd:onlineResource>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>http://biropemerintahan.kalselprov.go.id/</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</gmd:CI_OnLineFunctionCode>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onlineResource>
+          <gmd:hoursOfService>
+            <gco:CharacterString>08:00-16:00 WITA</gco:CharacterString>
+          </gmd:hoursOfService>
+          <gmd:contactInstructions>
+            <gco:CharacterString>telpon/email</gco:CharacterString>
+          </gmd:contactInstructions>
+        </gmd:CI_Contact>
+      </gmd:contactInfo>
+      <gmd:role>
+        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+      </gmd:role>
+    </gmd:CI_ResponsibleParty>
+  </gmd:contact>
+   <gmd:contact>
+    <gmd:CI_ResponsibleParty id="contact-pointOfContact">
+      <gmd:individualName>
+        <gco:CharacterString>Pachrin Noor Zain, ST</gco:CharacterString>
+      </gmd:individualName>
+      <gmd:organisationName>
+        <gco:CharacterString>BIRO PEMERINTAHAN DAN OTONOMI DAERAH SETDA</gco:CharacterString>
+      </gmd:organisationName>
+      <gmd:positionName>
+        <gco:CharacterString>Operator SKPD BIRO PEMOTDA Bidang Bagian Pemerinta</gco:CharacterString>
+      </gmd:positionName>
+      <gmd:contactInfo>
+        <gmd:CI_Contact>
+          <gmd:phone>
+            <gmd:CI_Telephone>
+              <gmd:voice>
+                <gco:CharacterString>0511-4770001</gco:CharacterString>
+              </gmd:voice>
+              <gmd:facsimile>
+                <gco:CharacterString>0511-4770008</gco:CharacterString>
+              </gmd:facsimile>
+            </gmd:CI_Telephone>
+          </gmd:phone>
+          <gmd:address>
+            <gmd:CI_Address>
+              <gmd:deliveryPoint>
+                <gco:CharacterString>Jln. Dharna Praja No. 1 Kawasan Perkantoran Pemprovn Kalsel</gco:CharacterString>
+              </gmd:deliveryPoint>
+              <gmd:city>
+                <gco:CharacterString>BANJARBARU</gco:CharacterString>
+              </gmd:city>
+              <gmd:administrativeArea>
+                <gco:CharacterString>Kalimantan Selatan</gco:CharacterString>
+              </gmd:administrativeArea>
+              <gmd:postalCode>
+                <gco:CharacterString>70712</gco:CharacterString>
+              </gmd:postalCode>
+              <gmd:country>
+                <gco:CharacterString>Indonesia</gco:CharacterString>
+              </gmd:country>
+              <gmd:electronicMailAddress>
+                <gco:CharacterString>biropemerintahan@kalselprov.go.id</gco:CharacterString>
+              </gmd:electronicMailAddress>
+            </gmd:CI_Address>
+          </gmd:address>
+          <gmd:onlineResource>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>http://biropemerintahan.kalselprov.go.id/</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</gmd:CI_OnLineFunctionCode>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onlineResource>
+          <gmd:hoursOfService>
+            <gco:CharacterString>08:00-16:00 WITA</gco:CharacterString>
+          </gmd:hoursOfService>
+          <gmd:contactInstructions>
+            <gco:CharacterString>telpon/email</gco:CharacterString>
+          </gmd:contactInstructions>
+        </gmd:CI_Contact>
+      </gmd:contactInfo>
+      <gmd:role>
+        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+      </gmd:role>
+    </gmd:CI_ResponsibleParty>
+  </gmd:contact>
+  
+  <gmd:dateStamp>
+    <gco:DateTime>2022-05-29 18:49:27</gco:DateTime>
+  </gmd:dateStamp>
+  <gmd:metadataStandardName>
+    <gco:CharacterString>SNI 8843 - Profil Metadata Spasial Indonesia</gco:CharacterString>
+  </gmd:metadataStandardName>
+  <gmd:metadataStandardVersion>
+    <gco:CharacterString>SNI 8843-1:2019</gco:CharacterString>
+  </gmd:metadataStandardVersion>
+  <gmd:dataSetURI>
+    <gco:CharacterString>https://geoservice.kalselprov.go.id/geoserver/BIROPEMOTDA/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;layers=BIROPEMOTDA:Toponimi_PT_50K&amp;styles=TOPONIMI_NOMOBJ_PT&amp;bbox=114.33073425293,-4.96084928512573,117.474159240723,-1.29442894458771&amp;width=768&amp;height=768&amp;srs=EPSG:4326&amp;format=application/openlayers</gco:CharacterString>
+  </gmd:dataSetURI>
+  <gmd:spatialRepresentationInfo>
+    <gmd:MD_VectorSpatialRepresentation>
+      <gmd:topologyLevel>
+        <gmd:MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</gmd:MD_TopologyLevelCode>
+      </gmd:topologyLevel>
+      <gmd:geometricObjects>
+        <gmd:MD_GeometricObjects>
+          <gmd:geometricObjectType>
+            <gmd:MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="complex" codeSpace="ISOTC211/19115">complex</gmd:MD_GeometricObjectTypeCode>
+          </gmd:geometricObjectType>
+		  <gmd:geometricObjectCount>
+            <gco:Integer>0</gco:Integer>
+          </gmd:geometricObjectCount>
+        </gmd:MD_GeometricObjects>
+      </gmd:geometricObjects>
+    </gmd:MD_VectorSpatialRepresentation>
+  </gmd:spatialRepresentationInfo>
+  <gmd:referenceSystemInfo>
+    <gmd:MD_ReferenceSystem>
+      <gmd:referenceSystemIdentifier>
+        <gmd:RS_Identifier>
+          <gmd:authority>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>European Petroleum Survey Group (EPSG) Geodetic Parameter Registry</gco:CharacterString>
+              </gmd:title>
+              <gmd:date>
+                <gmd:CI_Date>
+                  <gmd:date>
+                    <gco:Date>2008-11-12</gco:Date>
+                  </gmd:date>
+                  <gmd:dateType>
+                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+                  </gmd:dateType>
+                </gmd:CI_Date>
+              </gmd:date>
+              <gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:organisationName>
+                    <gco:CharacterString>European Petroleum Survey Group</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:contactInfo>
+                    <gmd:CI_Contact>
+                      <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                          <gmd:linkage>
+                            <gmd:URL>http://www.epsg-registry.org</gmd:URL>
+                          </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                      </gmd:onlineResource>
+                    </gmd:CI_Contact>
+                  </gmd:contactInfo>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</gmd:CI_RoleCode>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+            </gmd:CI_Citation>
+          </gmd:authority>
+          <gmd:code>
+            <gco:CharacterString>EPSG:4326</gco:CharacterString>
+          </gmd:code>
+          <gmd:version>
+            <gco:CharacterString>6.18.3</gco:CharacterString>
+          </gmd:version>
+        </gmd:RS_Identifier>
+      </gmd:referenceSystemIdentifier>
+    </gmd:MD_ReferenceSystem>
+  </gmd:referenceSystemInfo>
+  <gmd:identificationInfo>
+    <gmd:MD_DataIdentification>
+      <gmd:citation>
+        <gmd:CI_Citation>
+          <gmd:title>
+            <gco:CharacterString>TOPONIM PT 50K</gco:CharacterString>
+          </gmd:title>
+          <gmd:date>
+            <gmd:CI_Date>
+              <gmd:date>
+                <gco:DateTime>2016-01-01T00:00:00Z</gco:DateTime>
+              </gmd:date>
+              <gmd:dateType>
+                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+              </gmd:dateType>
+            </gmd:CI_Date>
+          </gmd:date>
+        </gmd:CI_Citation>
+      </gmd:citation>
+      <gmd:abstract>
+        <gco:CharacterString>Rupa Bumi Indonesia nama-nama tempat, nama yang diberikan kepada unsur rupabumi, baik berupa unsur alam maupun buatan manusia, Standar yang duacu TOPONIM_PT_50K</gco:CharacterString>
+      </gmd:abstract>
+      <gmd:status>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="" codeSpace="ISOTC211/19115"/>
+      </gmd:status>
+      <gmd:resourceMaintenance>
+        <gmd:MD_MaintenanceInformation>
+          <gmd:maintenanceAndUpdateFrequency>
+            <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+          </gmd:maintenanceAndUpdateFrequency>
+        </gmd:MD_MaintenanceInformation>
+      </gmd:resourceMaintenance>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+            <gco:CharacterString>TOPONIMI </gco:CharacterString>
+            <gmd:PT_FreeText>
+              <gmd:textGroup>
+                <gmd:LocalisedCharacterString locale="#locale-"/>
+              </gmd:textGroup>
+            </gmd:PT_FreeText>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="" codeSpace="ISOTC211/19115"/>
+          </gmd:type>
+        </gmd:MD_Keywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+            <gco:CharacterString>BATAS WILAYAH</gco:CharacterString>
+            <gmd:PT_FreeText>
+              <gmd:textGroup>
+                <gmd:LocalisedCharacterString locale="#locale-"/>
+              </gmd:textGroup>
+            </gmd:PT_FreeText>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="" codeSpace="ISOTC211/19115"/>
+          </gmd:type>
+        </gmd:MD_Keywords><gmd:MD_Keywords>
+          <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+            <gco:CharacterString> BATAS WILAYAH ADMINISTRASI</gco:CharacterString>
+            <gmd:PT_FreeText>
+              <gmd:textGroup>
+                <gmd:LocalisedCharacterString locale="#locale-"/>
+              </gmd:textGroup>
+            </gmd:PT_FreeText>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="" codeSpace="ISOTC211/19115"/>
+          </gmd:type>
+        </gmd:MD_Keywords><gmd:MD_Keywords>
+          <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+            <gco:CharacterString></gco:CharacterString>
+            <gmd:PT_FreeText>
+              <gmd:textGroup>
+                <gmd:LocalisedCharacterString locale="#locale-"/>
+              </gmd:textGroup>
+            </gmd:PT_FreeText>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="" codeSpace="ISOTC211/19115"/>
+          </gmd:type>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>	  
+      <gmd:resourceConstraints>
+	    <gmd:MD_Constraints>
+          <gmd:useLimitation>
+            <gco:CharacterString>Data ini tidak dapat digunakan untuk skala yang lebih besar dari skala data</gco:CharacterString>
+          </gmd:useLimitation>
+        </gmd:MD_Constraints>
+        <gmd:MD_LegalConstraints>
+          <gmd:accessConstraints>
+            <gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</gmd:MD_RestrictionCode>
+          </gmd:accessConstraints>
+        </gmd:MD_LegalConstraints>
+      </gmd:resourceConstraints>
+      <gmd:spatialRepresentationType>
+        <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</gmd:MD_SpatialRepresentationTypeCode>
+      </gmd:spatialRepresentationType>	  
+	   <gmd:spatialResolution>
+        <gmd:MD_Resolution>
+          <gmd:equivalentScale>
+            <gmd:MD_RepresentativeFraction>
+              <gmd:denominator>
+                <gco:Integer>50000</gco:Integer>
+              </gmd:denominator>
+            </gmd:MD_RepresentativeFraction>
+          </gmd:equivalentScale>
+        </gmd:MD_Resolution>
+      </gmd:spatialResolution>
+      <gmd:spatialResolution>
+        <gmd:MD_Resolution>
+          <gmd:distance>
+            <gco:Distance uom="m">0</gco:Distance>
+          </gmd:distance>
+        </gmd:MD_Resolution>
+      </gmd:spatialResolution>	  
+      <gmd:language>
+        <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ind" codeSpace="ISO 639-2">ind</gmd:LanguageCode>
+      </gmd:language>
+      <gmd:characterSet>
+        <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+      </gmd:characterSet>
+      <gmd:topicCategory>
+        <gmd:MD_TopicCategoryCode>TOPONIMI </gmd:MD_TopicCategoryCode>
+      </gmd:topicCategory>
+      <gmd:extent>
+        <gmd:EX_Extent>
+          <gmd:geographicElement>
+            <gmd:EX_GeographicBoundingBox>
+              <gmd:extentTypeCode>
+                <gco:Boolean>1</gco:Boolean>
+              </gmd:extentTypeCode>
+              <gmd:westBoundLongitude>
+                <gco:Decimal>114.33073425293</gco:Decimal>
+              </gmd:westBoundLongitude>
+              <gmd:eastBoundLongitude>
+                <gco:Decimal>117.474159240723</gco:Decimal>
+              </gmd:eastBoundLongitude>
+              <gmd:southBoundLatitude>
+                <gco:Decimal>-4.96084928512573</gco:Decimal>
+              </gmd:southBoundLatitude>
+              <gmd:northBoundLatitude>
+                <gco:Decimal>-1.29442894458771</gco:Decimal>
+              </gmd:northBoundLatitude>
+            </gmd:EX_GeographicBoundingBox>
+          </gmd:geographicElement>
+          <gmd:temporalElement>
+            <gmd:EX_TemporalExtent>
+              <gmd:extent>
+                <gml:TimePeriod gml:id="T001">
+                  <gml:beginPosition/>
+                  <gml:endPosition/>
+                </gml:TimePeriod>
+              </gmd:extent>
+            </gmd:EX_TemporalExtent>
+          </gmd:temporalElement>
+        </gmd:EX_Extent>
+      </gmd:extent>
+    </gmd:MD_DataIdentification>
+  </gmd:identificationInfo>
+  
+    <gmd:contentInfo>
+    <gmd:MD_FeatureCatalogueDescription>
+      <gmd:complianceCode>
+        <gco:Boolean>true</gco:Boolean>
+      </gmd:complianceCode>
+      <gmd:language>
+        <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="ind" codeSpace="ISO639-2">ind</gmd:LanguageCode>
+      </gmd:language>
+      <gmd:includedWithDataset>
+        <gco:Boolean>false</gco:Boolean>
+      </gmd:includedWithDataset>
+      <gmd:featureCatalogueCitation>
+        <gmd:CI_Citation>
+          <gmd:title>
+            <gco:CharacterString>Katalog Unsur Geografis Indonesia</gco:CharacterString>
+          </gmd:title>
+          <gmd:date>
+            <gmd:CI_Date>
+              <gmd:date>
+                <gco:Date>2017-01-01</gco:Date>
+              </gmd:date>
+              <gmd:dateType>
+                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</gmd:CI_DateTypeCode>
+              </gmd:dateType>
+            </gmd:CI_Date>
+          </gmd:date>
+          <gmd:date>
+            <gmd:CI_Date>
+              <gmd:date>
+                <gco:Date>2017-01-01</gco:Date>
+              </gmd:date>
+              <gmd:dateType>
+                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+              </gmd:dateType>
+            </gmd:CI_Date>
+          </gmd:date>
+          <gmd:edition>
+            <gco:CharacterString>5.1</gco:CharacterString>
+          </gmd:edition>          
+          <gmd:otherCitationDetails>
+            <gco:CharacterString>none</gco:CharacterString>
+          </gmd:otherCitationDetails>
+          <gmd:collectiveTitle>
+            <gco:CharacterString>KUGI V.5</gco:CharacterString>
+          </gmd:collectiveTitle>
+          	<gmd:citedResponsibleParty>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:contactInfo>
+                    <gmd:CI_Contact>
+                      <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                          <gmd:linkage>
+                            <gmd:URL>https://kugi.ina-sdi.or.id</gmd:URL>
+                          </gmd:linkage>
+                          <gmd:applicationProfile>
+                            <gco:CharacterString>Katalog Unsur Geografi Indonesia</gco:CharacterString>
+                          </gmd:applicationProfile>
+                          <gmd:name>
+                            <gco:CharacterString>KUGI</gco:CharacterString>
+                          </gmd:name>
+                          <gmd:description>
+                            <gco:CharacterString>Katalog Unsur Geografi Indonesia (KUGI) adalah pemberian kode dan struktur kode, penetapan tipe, operasi, atribut, asosiasi, dan aturan-aturan pendokumentasian atas unsur yang direpresentasikan dalam data geografis sesuai dengan Peraturan BIG Nomor 12 Tahun 2013. (Disusun berdasarkan SNI ISO 19110)</gco:CharacterString>
+                          </gmd:description>
+                          <gmd:function>
+                            <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</gmd:CI_OnLineFunctionCode>
+                          </gmd:function>
+                        </gmd:CI_OnlineResource>
+                      </gmd:onlineResource>
+                    </gmd:CI_Contact>
+                  </gmd:contactInfo>
+                </gmd:CI_ResponsibleParty>
+              </gmd:citedResponsibleParty>
+        </gmd:CI_Citation>
+      </gmd:featureCatalogueCitation>
+    </gmd:MD_FeatureCatalogueDescription>
+  </gmd:contentInfo>
+  <gmd:distributionInfo>
+    <gmd:MD_Distribution>
+      <gmd:distributor>
+        <gmd:MD_Distributor>
+          <gmd:distributorContact>
+            <gmd:CI_ResponsibleParty id="contact-distributor">
+              <gmd:individualName>
+                <gco:CharacterString>Dr.H. Muhammad Muslim, S.Pd, M.Kes</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString>DINAS KOMUNIKASI DAN INFORMATIKA</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>Pejabat Eselon II</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>0511-6749844</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile>
+                        <gco:CharacterString>0511-6749842</gco:CharacterString>
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>Jl. Dharma Praja II - Kawasan Perkantoran Pemerintah Provinsi Kalimantan Selatan</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>BANJARBARU</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>Kalimantan Selatan</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>70712</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Indonesia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>diskominfo@kalselprov.go.id</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://data.kalselprov.go.id</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:protocol>
+                        <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                      </gmd:protocol>
+                      <gmd:function>
+                        <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="custodian" codeSpace="ISOTC211/19115">custodian</gmd:CI_OnLineFunctionCode>
+                      </gmd:function>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:hoursOfService>
+                    <gco:CharacterString>08:00 - 16:00 WITA</gco:CharacterString>
+                  </gmd:hoursOfService>
+                  <gmd:contactInstructions>
+                    <gco:CharacterString>email/phone</gco:CharacterString>
+                  </gmd:contactInstructions>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian" codeSpace="ISOTC211/19115">custodian</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:distributorContact>
+        </gmd:MD_Distributor>
+      </gmd:distributor>
+      <gmd:transferOptions>
+        <gmd:MD_DigitalTransferOptions>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://geoservice.kalselprov.go.id/geoserver/wfs?</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>OGC:WFS</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>BIROPEMOTDA:Toponimi_PT_50K</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>RAW</gco:CharacterString>
+              </gmd:description>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://geoservice.kalselprov.go.id/geoserver/wms?</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>OGC:WMS</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>BIROPEMOTDA:Toponimi_PT_50K</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>ImageWMS</gco:CharacterString>
+              </gmd:description>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://geoservice.kalselprov.go.id/geoserver/wms?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=BIROPEMOTDA:Toponimi_PT_50K&amp;outputFormat=shape-zip</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>BIROPEMOTDA:Toponimi_PT_50K</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>ZIP Shapefile</gco:CharacterString>
+              </gmd:description>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://geoservice.kalselprov.go.id/geoserver/BIROPEMOTDA/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;layers=BIROPEMOTDA:Toponimi_PT_50K&amp;styles=TOPONIMI_NOMOBJ_PT&amp;bbox=114.33073425293,-4.96084928512573,117.474159240723,-1.29442894458771&amp;width=768&amp;height=768&amp;srs=&amp;format=application/openlayers</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>WWW:LINK</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>BIROPEMOTDA:Toponimi_PT_50K</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>ImageWMS</gco:CharacterString>
+              </gmd:description>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+        </gmd:MD_DigitalTransferOptions>
+      </gmd:transferOptions>
+    </gmd:MD_Distribution>
+  </gmd:distributionInfo>
+  <gmd:dataQualityInfo>
+    <gmd:DQ_DataQuality>
+      <gmd:scope>
+        <gmd:DQ_Scope>
+          <gmd:level>
+            <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="FeatureType" codeSpace="ISOTC211/19115">FeatureType</gmd:MD_ScopeCode>
+          </gmd:level>
+        </gmd:DQ_Scope>
+      </gmd:scope>
+	  <gmd:report>
+			<gmd:DQ_TopologicalConsistency>
+			  <gmd:measureDescription>
+				<gco:CharacterString>Menguji konsistensi topologi pada data TOPONIM PT 50K</gco:CharacterString>
+			  </gmd:measureDescription>
+			  <gmd:evaluationMethodType>
+				<gmd:DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</gmd:DQ_EvaluationMethodTypeCode>
+			  </gmd:evaluationMethodType>
+			  <gmd:evaluationMethodDescription>
+				<gco:CharacterString>Tidak ada kesalahan atau ketidaksesuaian dari aturan topologi pada data TOPONIM PT 50K</gco:CharacterString>
+			  </gmd:evaluationMethodDescription>
+			  <gmd:result>
+				<gmd:DQ_ConformanceResult>
+				  <gmd:specification gco:nilReason="missing" />
+				  <gmd:explanation>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </gmd:explanation>
+				  <gmd:pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </gmd:pass>
+				</gmd:DQ_ConformanceResult>
+			  </gmd:result>
+			  <gmd:result>
+				<gmd:DQ_QuantitativeResult>
+				  <gmd:valueType>
+					<gco:RecordType>Pemeriksaan menyeluruh</gco:RecordType>
+				  </gmd:valueType>
+				  <gmd:valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM"></gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </gmd:valueUnit>
+				  <gmd:errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </gmd:errorStatistic>
+				  <gmd:value>
+					<gco:Record>100</gco:Record>
+				  </gmd:value>
+				</gmd:DQ_QuantitativeResult>
+			  </gmd:result>
+			</gmd:DQ_TopologicalConsistency>
+		  </gmd:report><gmd:report>
+			<gmd:DQ_FormatConsistency>
+			  <gmd:measureDescription>
+				<gco:CharacterString>Menguji kesesuaian konsistensi format data TOPONIM PT 50K yang dibandingkan dengan peraturan yang ditetapkan dalam hal ini sesuai standar KUGI</gco:CharacterString>
+			  </gmd:measureDescription>
+			  <gmd:evaluationMethodType>
+				<gmd:DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</gmd:DQ_EvaluationMethodTypeCode>
+			  </gmd:evaluationMethodType>
+			  <gmd:evaluationMethodDescription>
+				<gco:CharacterString>Format data TOPONIM PT 50K yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+			  </gmd:evaluationMethodDescription>
+			  <gmd:result>
+				<gmd:DQ_ConformanceResult>
+				  <gmd:specification gco:nilReason="missing" />
+				  <gmd:explanation>
+					<gco:CharacterString>Format data yang ada pada data SHP telah sesuai standar</gco:CharacterString>
+				  </gmd:explanation>
+				  <gmd:pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </gmd:pass>
+				</gmd:DQ_ConformanceResult>
+			  </gmd:result>
+			  <gmd:result>
+				<gmd:DQ_QuantitativeResult>
+				  <gmd:valueType>
+					<gco:RecordType>Pemeriksaan menyeluruh</gco:RecordType>
+				  </gmd:valueType>
+				  <gmd:valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM"></gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </gmd:valueUnit>
+				  <gmd:errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </gmd:errorStatistic>
+				  <gmd:value>
+					<gco:Record>100</gco:Record>
+				  </gmd:value>
+				</gmd:DQ_QuantitativeResult>
+			  </gmd:result>
+			</gmd:DQ_FormatConsistency>
+		  </gmd:report><gmd:report>
+			<gmd:DQ_DomainConsistency>
+			  <gmd:measureDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut pada peta TOPONIM PT 50K</gco:CharacterString>
+			  </gmd:measureDescription>
+			  <gmd:evaluationMethodType>
+				<gmd:DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</gmd:DQ_EvaluationMethodTypeCode>
+			  </gmd:evaluationMethodType>
+			  <gmd:evaluationMethodDescription>
+				<gco:CharacterString>Menguji uji kelengkapan isian atribut dengan membandingkan sesuai atribut KUGI (Katalog Unsur Geografis Indonesia)</gco:CharacterString>
+			  </gmd:evaluationMethodDescription>
+			  <gmd:result>
+				<gmd:DQ_ConformanceResult>
+				  <gmd:specification gco:nilReason="missing" />
+				  <gmd:explanation>
+					<gco:CharacterString>Hasil kelengkapan atribut peta telah sesuai dengan yang dipersyaratkan</gco:CharacterString>
+				  </gmd:explanation>
+				  <gmd:pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </gmd:pass>
+				</gmd:DQ_ConformanceResult>
+			  </gmd:result>
+			  <gmd:result>
+				<gmd:DQ_QuantitativeResult>
+				  <gmd:valueType>
+					<gco:RecordType>Pemeriksaan menyeluruh</gco:RecordType>
+				  </gmd:valueType>
+				  <gmd:valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM"></gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </gmd:valueUnit>
+				  <gmd:errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </gmd:errorStatistic>
+				  <gmd:value>
+					<gco:Record>100</gco:Record>
+				  </gmd:value>
+				</gmd:DQ_QuantitativeResult>
+			  </gmd:result>
+			</gmd:DQ_DomainConsistency>
+		  </gmd:report><gmd:report>
+			<gmd:DQ_ConceptualConsistency>
+			  <gmd:measureDescription>
+				<gco:CharacterString>Menguji konsistensi konseptual data TOPONIM PT 50K</gco:CharacterString>
+			  </gmd:measureDescription>
+			  <gmd:evaluationMethodType>
+				<gmd:DQ_EvaluationMethodTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DQ_EvaluationMethodTypeCode" codeListValue="DirectInternal" codeSpace="ISOTC211/19115">DirectInternal</gmd:DQ_EvaluationMethodTypeCode>
+			  </gmd:evaluationMethodType>
+			  <gmd:evaluationMethodDescription>
+				<gco:CharacterString>Melakukan uji konsistensi dengan menggunakan citra satelit</gco:CharacterString>
+			  </gmd:evaluationMethodDescription>
+			  <gmd:result>
+				<gmd:DQ_ConformanceResult>
+				  <gmd:specification gco:nilReason="missing" />
+				  <gmd:explanation>
+					<gco:CharacterString>Hasil uji konsistensi konseptual telah memenuhi standar yang dipersyaratkan</gco:CharacterString>
+				  </gmd:explanation>
+				  <gmd:pass>
+					<gco:Boolean>true</gco:Boolean>
+				  </gmd:pass>
+				</gmd:DQ_ConformanceResult>
+			  </gmd:result>
+			  <gmd:result>
+				<gmd:DQ_QuantitativeResult>
+				  <gmd:valueType>
+					<gco:RecordType>Pemeriksaan menyeluruh</gco:RecordType>
+				  </gmd:valueType>
+				  <gmd:valueUnit>
+					<gml:UnitDefinition gml:id="ID0ABACAACEA">
+					  <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+					  <gml:catalogSymbol codeSpace="http://aurora.regenstrief.org/UCUM"></gml:catalogSymbol>
+					</gml:UnitDefinition>
+				  </gmd:valueUnit>
+				  <gmd:errorStatistic>
+					<gco:CharacterString>-</gco:CharacterString>
+				  </gmd:errorStatistic>
+				  <gmd:value>
+					<gco:Record>100</gco:Record>
+				  </gmd:value>
+				</gmd:DQ_QuantitativeResult>
+			  </gmd:result>
+			</gmd:DQ_ConceptualConsistency>
+		  </gmd:report>  		  
+      <gmd:lineage>
+        <gmd:LI_Lineage>
+          <gmd:statement>
+            <gco:CharacterString>Peta ini dibuat menngunakan...</gco:CharacterString>
+          </gmd:statement>
+          <gmd:source>
+            <gmd:LI_Source>
+              <gmd:description>
+                <gco:CharacterString>data ini hasil</gco:CharacterString>
+              </gmd:description>
+              <gmd:scaleDenominator>
+                <gmd:MD_RepresentativeFraction>
+                  <gmd:denominator>
+                    <gco:Integer>50000</gco:Integer>
+                  </gmd:denominator>
+                </gmd:MD_RepresentativeFraction>
+              </gmd:scaleDenominator>
+            </gmd:LI_Source>
+          </gmd:source>
+        </gmd:LI_Lineage>
+      </gmd:lineage>
+    </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+  <gmd:metadataMaintenance>
+    <gmd:MD_MaintenanceInformation>
+      <gmd:maintenanceAndUpdateFrequency>
+        <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+      </gmd:maintenanceAndUpdateFrequency>
+      <gmd:maintenanceNote>
+        <gco:CharacterString>Dibuat Oleh Biro Pemerintahan dan Otda</gco:CharacterString>
+      </gmd:maintenanceNote>
+    </gmd:MD_MaintenanceInformation>
+  </gmd:metadataMaintenance>
+  <gmd:metadataConstraints>
+    <gmd:MD_SecurityConstraints>
+      <gmd:classification>
+        <gmd:MD_ClassClassificationCode codeList="http://idec.icc.cat/schema/Codelist/ML_gmxCodelists.xml" codeListValue="unclassified"/>
+      </gmd:classification>
+      <gmd:userNote>
+        <gco:CharacterString>PUBLIK</gco:CharacterString>
+      </gmd:userNote>
+    </gmd:MD_SecurityConstraints>
+  </gmd:metadataConstraints> 
+   <gmd:portrayalCatalogueInfo>
+    <gmd:MD_PortrayalCatalogueReference>
+      <gmd:portrayalCatalogueCitation>
+        <gmd:CI_Citation>
+          <gmd:title>
+            <gco:CharacterString>Katalog Unsur Geografi Indonesia</gco:CharacterString>
+          </gmd:title>
+          <gmd:alternateTitle>
+            <gco:CharacterString>KUGI</gco:CharacterString>
+          </gmd:alternateTitle>
+          <gmd:date>
+            <gmd:CI_Date>
+              <gmd:date>
+                <gco:Date>2017-01-01</gco:Date>
+              </gmd:date>
+              <gmd:dateType>
+                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</gmd:CI_DateTypeCode>
+              </gmd:dateType>
+            </gmd:CI_Date>
+          </gmd:date>
+          <gmd:edition>
+            <gco:CharacterString>5</gco:CharacterString>
+          </gmd:edition>
+          <gmd:editionDate>
+            <gco:Date>2020-01-01</gco:Date>
+          </gmd:editionDate>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Kepala Pusat PPIG</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString>Badan Informasi Geospasial</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>Kepala Pusat PPIG</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:city>
+                        <gco:CharacterString>Jakarta</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>DKI Jakarta</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>70731</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Indonesia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>info@big.go.id</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>http://tanahiar.indonesia.go.id</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:applicationProfile>
+                        <gco:CharacterString>INA-GEOPORTAL</gco:CharacterString>
+                      </gmd:applicationProfile>
+                      <gmd:name>
+                        <gco:CharacterString>JIGN</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Jaringan Informasi Geospasial Nasional</gco:CharacterString>
+                      </gmd:description>
+                      <gmd:function>
+                        <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</gmd:CI_OnLineFunctionCode>
+                      </gmd:function>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:hoursOfService>
+                    <gco:CharacterString>Senin - Jum&apos;at, 8:00 - 16:00 WIB</gco:CharacterString>
+                  </gmd:hoursOfService>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="owner" codeSpace="ISOTC211/19115">owner</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:collectiveTitle>
+            <gco:CharacterString>SNI Penyajian Peta</gco:CharacterString>
+          </gmd:collectiveTitle>
+        </gmd:CI_Citation>
+      </gmd:portrayalCatalogueCitation>
+    </gmd:MD_PortrayalCatalogueReference>
+  </gmd:portrayalCatalogueInfo>
+ </gmd:MD_Metadata>
+</csw:GetRecordsResponse>
